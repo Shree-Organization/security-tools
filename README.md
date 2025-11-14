@@ -130,11 +130,12 @@ We welcome contributions from ethical developers!
 >Contributions that promote or enable unethical use will be rejected.
 
 ## Author
-Mantra Patil
-
-💼 LinkedIn: www.linkedin.com/in/mantrapatil25
-
-✉️ techmantrapatil@gmail.com
+ - Shree Organization
+   - https://www.linkedin.com/company/109544714/admin/dashboard/
+   - https://github.com/Shree-Organization
+- Mantra Patil
+  - 💼 LinkedIn: www.linkedin.com/in/mantrapatil25
+  - ✉️ techmantrapatil@gmail.com
 
 <h2 align="center">✨ Learn • Test • Secure — with <b>Security Tools</b> ✨</h2> <p align="center"> <i>Made with ❤️ & Python for the cybersecurity community</i><br><br> <img src="https://img.shields.io/badge/Keep%20Learning-Cybersecurity-blue?style=for-the-badge&logo=graduation-cap"> <img src="https://img.shields.io/badge/Give%20a%20Star-⭐-brightgreen?style=for-the-badge&logo=github"> <img src="https://img.shields.io/badge/Open--Source-Contributions%20Welcome-orange?style=for-the-badge&logo=open-source-initiative"> </p> 
 
